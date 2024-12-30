@@ -7,6 +7,14 @@
 
 ---
 
+## 中科院的手写体数据集下载地址：
+
+官方获取连接：
+http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1trn_gnt.zip
+http://www.nlpr.ia.ac.cn/databases/download/feature_data/HWDB1.1tst_gnt.zip
+网盘连接：https://pan.baidu.com/s/1pKaTg9CY5RB9C8m7itzSaQ
+提取码：oubr
+
 ## 环境要求
 
 运行以下命令安装所需的 Python 包：
